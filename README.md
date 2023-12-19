@@ -9,5 +9,5 @@ To use:
 * Open index.html in browser
 
 This is very much work-in-progress with work needed on the UI.  
-A sample CSV output is included: wsg.csv
+Sample output is included: wsg.csv and wsg.xlsx
 
